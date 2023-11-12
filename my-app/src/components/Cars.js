@@ -11,7 +11,7 @@ function Cars() {
   const [cart, setCart] = useContext(CartContext);
 
   useEffect(() => {
-    fetch('http://localhost:3000/cars')
+    fetch('https://my-json-server.typicode.com/kev065/magari-inc/cars')
       .then((response) => response.json())
       .then((data) => {
         setCars(data);

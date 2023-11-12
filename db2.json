@@ -134,6 +134,33 @@
       "mileage": "12500",
       "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699778909/640px-2021_Land_Rover_Defender_110_P300_in_Fuji_White__front_right_j06dh2.jpg",
       "id": 15
+    },
+    {
+      "make": "Chevrolet",
+      "brand": "Suburban",
+      "year": "2021",
+      "price": "79999",
+      "mileage": "24000",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699782889/1280px-2015_Chevrolet_Suburban_1500_LTZ__front_4.18.19_cys7ux.jpg",
+      "id": 16
+    },
+    {
+      "make": "Lamborghini ",
+      "brand": "Urus",
+      "year": "2020",
+      "price": "200000",
+      "mileage": "23000",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699787156/1280px-Lamborghini_Urus_19.09.20_JM__2___cropped_vzvg2w.jpg",
+      "id": 17
+    },
+    {
+      "make": "Lamborghini",
+      "brand": "Aventador",
+      "year": "2021",
+      "price": "80000",
+      "mileage": "23400",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699790807/2023_Lamborghini_Aventador_Ultimae_x2dfqz.jpg",
+      "id": 18
     }
   ]
 }
