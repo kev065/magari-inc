@@ -1,4 +1,4 @@
-# cars-app
+# magari-inc
 This car buying and selling app was built using [React](https://react.dev/) to enable people to easily browse, buy or sell their cars.
 
 **Users can do the following with this app:**
