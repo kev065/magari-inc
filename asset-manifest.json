@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/magari-inc/static/css/main.5469f3f7.css",
+    "main.js": "/magari-inc/static/js/main.a6dacaa6.js",
+    "static/js/787.d4aba7ab.chunk.js": "/magari-inc/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/magari-inc/index.html",
+    "main.5469f3f7.css.map": "/magari-inc/static/css/main.5469f3f7.css.map",
+    "main.a6dacaa6.js.map": "/magari-inc/static/js/main.a6dacaa6.js.map",
+    "787.d4aba7ab.chunk.js.map": "/magari-inc/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5469f3f7.css",
+    "static/js/main.a6dacaa6.js"
+  ]
+}
