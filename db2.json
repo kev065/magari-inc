@@ -1,0 +1,139 @@
+{
+  "cars": [
+    {
+      "make": "Toyota",
+      "brand": "Rav4",
+      "year": "2013",
+      "price": "12000",
+      "mileage": "34532",
+      "picture": null,
+      "id": 1
+    },
+    {
+      "make": "Mazda",
+      "brand": "Demio",
+      "year": "2016",
+      "price": "10000",
+      "mileage": "54000",
+      "picture": null,
+      "id": 2
+    },
+    {
+      "make": "Lexus",
+      "brand": "ES-350",
+      "year": "2019",
+      "price": "25000",
+      "mileage": "13590",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699557549/640px-Mazda_CX-5__KF__1X7A0333_tyzaon.jpg",
+      "id": 3
+    },
+    {
+      "make": "BMW ",
+      "brand": "I8",
+      "year": "2021",
+      "price": "150000",
+      "mileage": "12300",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699557704/I8_lhywrm.jpg",
+      "id": 4
+    },
+    {
+      "make": "BMW",
+      "brand": "G20",
+      "year": "2018",
+      "price": "35000",
+      "mileage": "13200",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699557892/G20_dhbui6.jpg",
+      "id": 5
+    },
+    {
+      "make": "Lexus",
+      "brand": "ES350",
+      "year": "2021",
+      "price": "45000",
+      "mileage": "12450",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699560833/Lexus_ES350_zgczyt.jpg",
+      "id": 6
+    },
+    {
+      "make": "Lexus",
+      "brand": "ES350",
+      "year": "2020",
+      "price": "45000",
+      "mileage": "12360",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699561102/Lexus_ES350_d1ibjl.jpg",
+      "id": 7
+    },
+    {
+      "make": "Lexus",
+      "brand": "LX570",
+      "year": "2021",
+      "price": "80000",
+      "mileage": "13470",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699593359/2018_Lexus_LX_570__facelift__front_3.24.23_yfbi8d.jpg",
+      "id": 8
+    },
+    {
+      "make": "Mercedes",
+      "brand": "S600",
+      "year": "2019",
+      "price": "60000",
+      "mileage": "13560",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699594370/mercedes_s600_xwmmsy.jpg",
+      "id": 9
+    },
+    {
+      "make": "Toyota",
+      "brand": "Vitz",
+      "year": "",
+      "price": "",
+      "mileage": "",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699594550/VITZ_rxltp4.jpg",
+      "id": 10
+    },
+    {
+      "make": "Mazda",
+      "brand": "Demio",
+      "year": "2009",
+      "price": "6000",
+      "mileage": "80000",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699594670/demio_bnbi7g.jpg",
+      "id": 11
+    },
+    {
+      "make": "Toyota",
+      "brand": "Probox",
+      "year": "2016",
+      "price": "6000",
+      "mileage": "56000",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699598482/probox_zt4m5k.jpg",
+      "id": 12
+    },
+    {
+      "make": "Toyota",
+      "brand": "Auris",
+      "year": "2008",
+      "price": "6000",
+      "mileage": "67000",
+      "picture": "",
+      "id": 13
+    },
+    {
+      "make": "Ford ",
+      "brand": "Maverick",
+      "year": "2022",
+      "price": "45000",
+      "mileage": "28000",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699617123/Ford_Maverick_mf2nth.jpg",
+      "id": 14
+    },
+    {
+      "make": "Land Rover",
+      "brand": "Defender 110",
+      "year": "2019",
+      "price": "45000",
+      "mileage": "12500",
+      "picture": "https://res.cloudinary.com/dbh1s3nlh/image/upload/v1699778909/640px-2021_Land_Rover_Defender_110_P300_in_Fuji_White__front_right_j06dh2.jpg",
+      "id": 15
+    }
+  ]
+}

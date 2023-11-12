@@ -1,0 +1,52 @@
+/* styles.css (or a new CSS file for car-details-container) */
+
+.car-details-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .car-details {
+    margin-top: 20px;
+  }
+  
+  h3 {
+    font-size: 20px;
+  }
+  
+  p {
+    color: #555;
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  
+  Link {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+    transition: color 0.3s;
+  }
+  
+  Link:hover {
+    color: #f9b900; /* Hover color */
+  }
+  

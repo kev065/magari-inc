@@ -1,0 +1,184 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "make": "Toyota",
+      "brand": "Camry",
+      "yearOfMake": 2022,
+      "price": 25000,
+      "mileage": 25000,
+      "image": "https://www.carpro.com/hs-fs/hubfs/2022-toyota-camry-trd-feature-carprousa..png?width=1530&name=2022-toyota-camry-trd-feature-carprousa..png"
+    },
+    {
+      "id": 2,
+      "make": "Honda",
+      "brand": "Civic",
+      "yearOfMake": 2021,
+      "price": 22000,
+      "mileage": 20000,
+      "image": "https://www.carpro.com/hs-fs/hubfs/2022-Honda-Civic-feature-carprousa.jpg?width=1530&name=2022-Honda-Civic-feature-carprousa.jpg"
+    },
+    {
+      "id": 3,
+      "make": "Ford",
+      "brand": "F-150",
+      "yearOfMake": 2023,
+      "price": 35000,
+      "mileage": 15000,
+      "image": "https://www.carpro.com/hs-fs/hubfs/2022-ford-f-150-lightning-star-white-grille-carprousa-1404x1112.jpg?width=1530&name=2022-ford-f-150-lightning-star-white-grille-carprousa-1404x1112.jpg"
+    },
+    {
+      "id": 4,
+      "make": "Chevrolet",
+      "brand": "Malibu",
+      "yearOfMake": 2022,
+      "price": 26000,
+      "mileage": 18000,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2018-chevrolet-malibu-rs-first-drive-105-1535341862.jpg?crop=0.858xw:0.699xh;0.0798xw,0.173xh&resize=1200:*"
+    },
+    {
+      "id": 5,
+      "make": "Nissan",
+      "brand": "Altima",
+      "yearOfMake": 2023,
+      "price": 27000,
+      "mileage": 22000,
+      "image": "https://media.ed.edmunds-media.com/nissan/altima/2023/oem/2023_nissan_altima_sedan_vc-t-sr_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 6,
+      "make": "Hyundai",
+      "brand": "Elantra",
+      "yearOfMake": 2021,
+      "price": 18000,
+      "mileage": 16000,
+      "image": "https://media.ed.edmunds-media.com/hyundai/elantra/2024/oem/2024_hyundai_elantra_sedan_limited_rq_oem_4_1280x855.jpg"
+    },
+    {
+      "id": 7,
+      "make": "Kia",
+      "brand": "Sportage",
+      "yearOfMake": 2023,
+      "price": 30000,
+      "mileage": 28000,
+      "image": "https://media.ed.edmunds-media.com/kia/sportage/2024/oem/2024_kia_sportage_4dr-suv_sx_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 8,
+      "make": "Volkswagen",
+      "brand": "Jetta",
+      "yearOfMake": 2022,
+      "price": 23000,
+      "mileage": 22000,
+      "image": "https://media.ed.edmunds-media.com/volkswagen/jetta/2022/oem/2022_volkswagen_jetta_sedan_se_fq_oem_1_1280x855.jpg"
+    },
+    {
+      "id": 9,
+      "make": "BMW",
+      "brand": "3 Series",
+      "yearOfMake": 2022,
+      "price": 40000,
+      "mileage": 15000,
+      "image": "https://media.ed.edmunds-media.com/bmw/3-series/2023/oem/2023_bmw_3-series_sedan_330i-xdrive_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 10,
+      "make": "Audi",
+      "brand": "A4",
+      "yearOfMake": 2021,
+      "price": 38000,
+      "mileage": 17000,
+      "image": "https://media.ed.edmunds-media.com/audi/a4/2022/oem/2022_audi_a4_sedan_prestige-s-line_fq_oem_8_815.jpg"
+    },
+    {
+      "id": 11,
+      "make": "Mercedes-Benz",
+      "brand": "C-Class",
+      "yearOfMake": 2022,
+      "price": 42000,
+      "mileage": 20000,
+      "image": "https://parkers-images.bauersecure.com/wp-images/22257/cut-out/930x620/mercedes-c-class.jpg"
+    },
+    {
+      "id": 12,
+      "make": "Lexus",
+      "brand": "RX",
+      "yearOfMake": 2023,
+      "price": 45000,
+      "mileage": 22000,
+      "image": "https://media.ed.edmunds-media.com/lexus/rx-350/2023/oem/2023_lexus_rx-350_4dr-suv_f-sport_fq_oem_3_815.jpg"
+    },
+    {
+      "id": 13,
+      "make": "Subaru",
+      "brand": "Outback",
+      "yearOfMake": 2022,
+      "price": 28000,
+      "mileage": 19000,
+      "image": "https://media.ed.edmunds-media.com/subaru/outback/2024/oem/2024_subaru_outback_4dr-suv_onyx-edition-xt_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 14,
+      "make": "Mazda",
+      "brand": "CX-5",
+      "yearOfMake": 2023,
+      "price": 32000,
+      "mileage": 18000,
+      "image": "https://media.ed.edmunds-media.com/mazda/cx-5/2024/oem/2024_mazda_cx-5_4dr-suv_25-carbon-turbo_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 15,
+      "make": "Jeep",
+      "brand": "Cherokee",
+      "yearOfMake": 2021,
+      "price": 29000,
+      "mileage": 25000,
+      "image": "https://media.ed.edmunds-media.com/jeep/grand-cherokee/2022/oem/2022_jeep_grand-cherokee_4dr-suv_overland_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 16,
+      "make": "GMC",
+      "brand": "Sierra 1500",
+      "yearOfMake": 2022,
+      "price": 38000,
+      "mileage": 17000,
+      "image": "https://media.ed.edmunds-media.com/gmc/sierra-1500/2022/oem/2022_gmc_sierra-1500_crew-cab-pickup_at4_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 17,
+      "make": "Dodge",
+      "brand": "Charger",
+      "yearOfMake": 2023,
+      "price": 34000,
+      "mileage": 15000,
+      "image": "https://media.ed.edmunds-media.com/dodge/charger/2023/fe/2023_dodge_charger_f34_fe_1203211_815.jpg"
+    },
+    {
+      "id": 18,
+      "make": "Tesla",
+      "brand": "Model 3",
+      "yearOfMake": 2022,
+      "price": 50000,
+      "mileage": 5000,
+      "image": "https://media.ed.edmunds-media.com/tesla/model-3/2022/oem/2022_tesla_model-3_sedan_performance_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 19,
+      "make": "Ram",
+      "brand": "1500",
+      "yearOfMake": 2021,
+      "price": 37000,
+      "mileage": 22000,
+      "image": "https://media.ed.edmunds-media.com/ram/1500/2023/oem/2023_ram_1500_crew-cab-pickup_big-horn_fq_oem_1_815.jpg"
+    },
+    {
+      "id": 20,
+      "make": "Cadillac",
+      "brand": "Escalade",
+      "yearOfMake": 2023,
+      "price": 60000,
+      "mileage": 15000,
+      "image": "https://media.ed.edmunds-media.com/cadillac/escalade/2023/oem/2023_cadillac_escalade_4dr-suv_v_fq_oem_2_815.jpg"
+    }
+  ]
+}
