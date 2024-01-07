@@ -11,7 +11,7 @@ function Cars() {
   const [cart, setCart] = useContext(CartContext);
 
   useEffect(() => {
-    fetch('http://localhost:3000/cars')
+    fetch('https://kev065.github.io/json-host/magari-inc/db.json')
       .then((response) => response.json())
       .then((data) => {
         setCars(data);
