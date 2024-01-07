@@ -14,7 +14,7 @@ function Cars() {
     fetch('https://kev065.github.io/json-host/magari-inc/db.json')
       .then((response) => response.json())
       .then((data) => {
-        setCars(data);
+        setCars(data.cars);
         setLoading(false);
       });
   }, []);
